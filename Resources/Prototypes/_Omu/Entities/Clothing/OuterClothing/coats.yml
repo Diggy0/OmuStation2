@@ -190,7 +190,7 @@
 - type: entity
   parent: ClothingOuterCoatHoP
   id: ClothingOuterFormalDressHoP
-  name: head of personnel's formal dress
+  name: head of personnel's formal dress jacket
   description: A expensive, stylish dress given to a Head of Personnel.
   components:
   - type: Sprite
