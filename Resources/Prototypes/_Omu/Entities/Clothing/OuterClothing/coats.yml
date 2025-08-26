@@ -24,6 +24,7 @@
     coolingCoefficient: 0.1
   - type: ZombificationResistance
     zombificationResistanceCoefficient: 0.55
+
 - type: entity
   parent: [ClothingOuterStorageFoldableBaseOpened, ClothingOuterJacketCargoTech]
   id: ClothingOuterJacketCargoTechOpened
@@ -38,6 +39,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hoswinterjacket.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hoswinterjacket.rsi
+
 - type: entity
   parent: ClothingOuterStorageFoldableBase
   id: ClothingOuterJacketParamed
@@ -64,6 +66,7 @@
     coolingCoefficient: 0.1
   - type: ZombificationResistance
     zombificationResistanceCoefficient: 0.55
+
 - type: entity
   parent: [ClothingOuterStorageFoldableBaseOpened, ClothingOuterJacketParamed]
   id: ClothingOuterJacketParamedOpened
@@ -78,6 +81,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/centcomwinterjacket.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/centcomwinterjacket.rsi
+
 - type: entity
   parent: [ClothingOuterBaseMedium, AllowSuitStorageClothing, BaseCentcommContraband]
   id: ClothingOuterCoatCentralCommandWinterADMEME
@@ -114,6 +118,7 @@
   - type: TemperatureProtection
     heatingCoefficient: 0.8 # Blame it on bluespace.
     coolingCoefficient: 0.1
+
 - type: entity
   parent: [ClothingOuterWinterCoat, BaseCommandContraband]
   id: ClothingOuterCoatHoP
@@ -124,6 +129,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopcoat.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopcoat.rsi
+
 - type: entity
   parent: ClothingOuterCoatAMG
   id: ClothingJacketBrigmed
@@ -134,6 +140,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/brigmedjacketred.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/brigmedjacketred.rsi
+
 - type: entity
   parent: ClothingOuterCoatLabChem
   id: ClothingOuterCoatLabcoatChemLong
@@ -144,6 +151,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/labcoatchemist.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/labcoatchemist.rsi
+
 - type: entity
   parent: ClothingOuterCoatLab
   id: ClothingOuterCoatMedicalcoatLong
@@ -154,6 +162,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/longlabcoat.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/longlabcoat.rsi
+
 - type: entity
   parent: ClothingOuterCoatLab
   id: ClothingOuterCoatSciencecoatLong
@@ -164,6 +173,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/sciencelonglabcoat.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/sciencelonglabcoat.rsi
+
 - type: entity
   parent: ClothingOuterCoatHoP
   id: ClothingOuterFormalJacketHoP
@@ -174,6 +184,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformalcoat.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformalcoat.rsi
+    
 - type: entity
   parent: ClothingOuterCoatHoP
   id: ClothingOuterFormalDressHoP
