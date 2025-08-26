@@ -175,3 +175,25 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/sciencelonglabcoat.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/sciencelonglabcoat.rsi
+
+- type: entity
+  parent: ClothingOuterCoatHoP
+  id: ClothingOuterFormalJacketHoP
+  name: head of personnel's formal jacket
+  description: A expensive, stylish jacket given to a Head of Personnel.
+  components:
+  - type: Sprite
+    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformalcoat.rsi
+  - type: Clothing
+    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformalcoat.rsi
+
+- type: entity
+  parent: ClothingOuterCoatHoP
+  id: ClothingOuterFormalDressHoP
+  name: head of personnel's formal dress
+  description: A expensive, stylish dress given to a Head of Personnel.
+  components:
+  - type: Sprite
+    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformaldress.rsi
+  - type: Clothing
+    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformaldress.rsi

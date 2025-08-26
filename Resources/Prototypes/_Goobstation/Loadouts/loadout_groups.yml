@@ -1020,6 +1020,7 @@
   minLimit: 0
   loadouts:
   - BlueshieldOfficerOuterBlueshieldMantle
+  - BlueshieldOfficerOuterBlueshieldMantleBlack # Omu
 
 - type: loadoutGroup
   id: BlueshieldOfficerMask

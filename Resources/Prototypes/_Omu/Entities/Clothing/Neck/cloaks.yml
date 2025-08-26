@@ -5,4 +5,6 @@
   description: A large green cloak that demands attention, and careful steps to not trip while wearing it.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Neck/Cloaks/admiralcape.rsi
+    sprite: _Omu/Clothing/Uniforms/Neck/Cloaks/admiralcape.rsi
+  - type: Clothing
+    sprite: _Omu/Clothing/Uniforms/Neck/Cloaks/admiralcape.rsi

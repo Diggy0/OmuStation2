@@ -4,6 +4,16 @@
   equipment:
     outerClothing: ClothingOuterCoatHoP
 
+- type: loadout
+  id: ClothingFormalHoPJacket
+  equipment:
+    outerClothing: ClothingOuterFormalJacketHoP
+
+- type: loadout
+  id: ClothingFormalHoPDress
+  equipment:
+    outerClothing: ClothingOuterFormalDressHoP
+
 # Jumpsuits and Jumpskirts
 - type: loadout
   id: HoPParadeUniformMale

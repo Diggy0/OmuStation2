@@ -382,7 +382,9 @@
   minLimit: 0
   loadouts:
   - HoPWintercoat
-  - ClothingFormalHoPCoat # OmuStation
+  - ClothingFormalHoPCoat # Omu
+  - ClothingFormalHoPJacket # Omu
+  - ClothingFormalHoPDress # Omu
 
 # Civilian
 - type: loadoutGroup
