@@ -184,7 +184,7 @@
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformalcoat.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformalcoat.rsi
-    
+
 - type: entity
   parent: ClothingOuterCoatHoP
   id: ClothingOuterFormalDressHoP
@@ -194,7 +194,6 @@
   - type: Sprite
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformaldress.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformaldress.rsi
     sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformaldress.rsi
 
 - type: entity
