@@ -86,7 +86,7 @@
   parent: [ClothingOuterBaseMedium, AllowSuitStorageClothing, BaseCentcommContraband]
   id: ClothingOuterCoatCentralCommandWinterADMEME
   name: CentComm winter trenchcoat
-  suffix: ADMEME Version
+  suffix: ADMEME
   description: Pride. Greed. Envy. It's not a sin if you are better than them.
   components:
   - type: Sprite
