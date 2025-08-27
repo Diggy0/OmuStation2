@@ -1,5 +1,5 @@
 - type: entity
-  parent: [ClothingOuterBaseMedium, AllowSuitStorageClothing, ClothingOuterStorageFoldableBase]
+  parent: [ClothingOuterBaseMedium, AllowSuitStorageClothing, ClothingOuterStorageFoldableBase, ClothingBlueshieldArmourVest]
   id: ClothingBlueshieldArmoredCoat
   name: blueshield's armored coat
   description: A coat for cold winter seasons with sewn in plates.
@@ -8,15 +8,6 @@
     sprite: _EinsteinEngines/Clothing/OuterClothing/Armor/blueshield_coat.rsi
   - type: Clothing
     sprite: _EinsteinEngines/Clothing/OuterClothing/Armor/blueshield_coat.rsi
-  - type: Item
-    size: Normal
-  - type: Armor
-    modifiers:
-      coefficients:
-        Blunt: 0.60
-        Slash: 0.60
-        Piercing: 0.65
-        Heat: 0.70
   - type: TemperatureProtection
     heatingCoefficient: 0.1
     coolingCoefficient: 0.1
