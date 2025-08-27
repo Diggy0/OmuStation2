@@ -8,3 +8,14 @@
     sprite: _Omu/Clothing/Uniforms/Neck/Cloaks/admiralcape.rsi
   - type: Clothing
     sprite: _Omu/Clothing/Uniforms/Neck/Cloaks/admiralcape.rsi
+
+- type: entity
+  parent: [ClothingNeckBase, BaseCommandContraband]
+  id: ClothingNeckCloakRdFancy
+  name: decorated research director's cloak
+  description: A purple cloak with silver lining, appropiate for a research director.
+  components:
+  - type: Sprite
+    sprite: _Omu/Clothing/Uniforms/Neck/Cloaks/rdcloak.rsi
+  - type: StealTarget
+    stealGroup: HeadCloak

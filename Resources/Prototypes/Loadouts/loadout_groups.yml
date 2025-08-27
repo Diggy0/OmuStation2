@@ -1116,6 +1116,7 @@
   loadouts:
   - ResearchDirectorMantle
   - ResearchDirectorCloak
+  - ResearchDirectorDecoratedCloak
 
 - type: loadoutGroup
   id: ResearchDirectorJumpsuit
