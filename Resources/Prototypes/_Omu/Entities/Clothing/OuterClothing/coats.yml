@@ -197,7 +197,7 @@
     sprite: _Omu/Clothing/OuterClothing/Coats/hopformaldress.rsi
 
 - type: entity
-  parent: ClothingOuterStorageFoldableBase
+  parent: ClothingOuterCoatLabCmo
   id: ClothingOuterCMOLabCoat
   name: CMO's Splashproof Labcoat
   description: A Heavy, splash resistant labcoat made out of a fabric inner layer and plastic outer layer. Practical and cozy!
