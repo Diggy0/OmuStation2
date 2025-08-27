@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from TG files - https://github.com/tgstation/tgstation/commit/728faa3e70ab3a13c8111a48591f29e1768565db",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "icon"
+        },
+        {
+            "name": "icon-open"
+        },
+        {
+            "name": "equipped-OUTERCLOTHING",
+            "directions": 4
+        },
+        {
+            "name": "open-equipped-OUTERCLOTHING",
+            "directions": 4
+        }
+    ]
+}

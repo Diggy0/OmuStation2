@@ -5,9 +5,9 @@
   description: A brown and black puffy jacket; made from synthetic fabric. Inspired by old Eastern European designs.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/cargotechjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/cargotechjacket.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/cargotechjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/cargotechjacket.rsi
   - type: Armor
     coverage:
     - Chest
@@ -36,9 +36,9 @@
   description: A trenchcoat enhanced with a special lightweight kevlar, padded with wool on the collar and inside. You feel strangely lonely wearing this coat.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hoswinterjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/hoswinterjacket.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hoswinterjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/hoswinterjacket.rsi
 
 - type: entity
   parent: ClothingOuterStorageFoldableBase
@@ -47,9 +47,9 @@
   description: A dark blue jacket for paramedics with reflective stripes.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/paramedicjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/paramedicjacket.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/paramedicjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/paramedicjacket.rsi
   - type: Armor
     coverage:
     - Chest
@@ -78,9 +78,9 @@
   description: Pride. Greed. Envy. It's not a sin if you are better than them.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/centcomwinterjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/centcomwinterjacket.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/centcomwinterjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/centcomwinterjacket.rsi
 
 - type: entity
   parent: [ClothingOuterBaseMedium, AllowSuitStorageClothing, BaseCentcommContraband]
@@ -90,9 +90,9 @@
   description: Pride. Greed. Envy. It's not a sin if you are better than them.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/centcomwinterjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/centcomwinterjacket.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/centcomwinterjacket.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/centcomwinterjacket.rsi
   - type: Armor
     coverage:
     - Chest
@@ -126,9 +126,9 @@
   description: A stylish coat given to a Head of Personnel.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/hopcoat.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/hopcoat.rsi
 
 - type: entity
   parent: ClothingOuterCoatAMG
@@ -137,9 +137,9 @@
   description: A stylish red jacket decorated with white stripes and cross. Nine out of ten corpsmen recommend "Do Not Revive."
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/brigmedjacketred.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/brigmedjacketred.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/brigmedjacketred.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/brigmedjacketred.rsi
 
 - type: entity
   parent: ClothingOuterCoatLabChem
@@ -148,9 +148,9 @@
   description: A standard labcoat for chemistry which protects the wearer from acid spills.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/labcoatchemist.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/labcoatchemist.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/labcoatchemist.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/labcoatchemist.rsi
 
 - type: entity
   parent: ClothingOuterCoatLab
@@ -159,9 +159,9 @@
   description: A Nanotrasen standard labcoat for medical personnel.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/longlabcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/longlabcoat.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/longlabcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/longlabcoat.rsi
 
 - type: entity
   parent: ClothingOuterCoatLab
@@ -170,9 +170,9 @@
   description: A Nanotrasen standard labcoat for science personnel.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/sciencelonglabcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/sciencelonglabcoat.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/sciencelonglabcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/sciencelonglabcoat.rsi
 
 - type: entity
   parent: ClothingOuterCoatHoP
@@ -181,9 +181,9 @@
   description: A expensive, stylish jacket given to a Head of Personnel.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformalcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/hopformalcoat.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformalcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/hopformalcoat.rsi
 
 - type: entity
   parent: ClothingOuterCoatHoP
@@ -192,9 +192,9 @@
   description: A expensive, stylish dress given to a Head of Personnel.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformaldress.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/hopformaldress.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/OuterClothing/Coats/hopformaldress.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/hopformaldress.rsi
 
 - type: entity
   parent: ClothingOuterStorageFoldableBase
@@ -203,9 +203,9 @@
   description: A Heavy, splash resistant labcoat made out of a fabric inner layer and plastic outer layer. Practical and cozy!
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Outerclothing/Coats/CMOlabcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/CMOlabcoat.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Outerclothing/Coats/CMOlabcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/CMOlabcoat.rsi
   - type: ExplosionResistance
   - type: Armor
     coverage:

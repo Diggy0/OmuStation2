@@ -5,6 +5,6 @@
   description: A mostly black mantle with blue lining along the neck, in case the other option wasn't convincing enough.
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/Uniforms/Neck/Mantle/bsomantleblack.rsi
+    sprite: _Omu/Clothing/Neck/Mantle/bsomantleblack.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/Uniforms/Neck/Mantle/bsomantleblack.rsi
+    sprite: _Omu/Clothing/Neck/Mantle/bsomantleblack.rsi
