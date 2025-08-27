@@ -433,8 +433,8 @@
 
 - type: latheRecipe
   parent: BaseCommandJumpsuitRecipe
-  id: ClothingUniformJumpskirtHoSParadeFemale
-  result: ClothingUniformJumpskirtHoSParadeFemale
+  id: ClothingUniformJumpskirtHoSParadeMale
+  result: ClothingUniformJumpskirtHoSParadeMale
 
 - type: latheRecipe
   parent: BaseCommandJumpsuitRecipe
