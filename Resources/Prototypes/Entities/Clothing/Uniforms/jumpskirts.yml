@@ -330,7 +330,7 @@
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseCommandContraband]
-  id: ClothingUniformJumpskirtHoSParadeFemale
+  id: ClothingUniformJumpskirtHoSParadeMale
   name: head of security's parade uniform
   description: A head of security's luxury-wear, for special occasions.
   components:
