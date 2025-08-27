@@ -203,9 +203,9 @@
   description: A Heavy, splash resistant labcoat made out of a fabric inner layer and plastic outer layer. Practical and cozy!
   components:
   - type: Sprite
-    sprite: _Omu/Clothing/OuterClothing/Coats/CMOlabcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/veterancmolabcoat.rsi
   - type: Clothing
-    sprite: _Omu/Clothing/OuterClothing/Coats/CMOlabcoat.rsi
+    sprite: _Omu/Clothing/OuterClothing/Coats/veterancmolabcoat.rsi
   - type: ExplosionResistance
   - type: Armor
     coverage:
