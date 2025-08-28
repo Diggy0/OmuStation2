@@ -89,10 +89,6 @@
   suffix: ADMEME
   description: Pride. Greed. Envy. It's not a sin if you are better than them.
   components:
-  - type: Sprite
-    sprite: _Omu/Clothing/OuterClothing/Coats/centcomwinterjacket.rsi
-  - type: Clothing
-    sprite: _Omu/Clothing/OuterClothing/Coats/centcomwinterjacket.rsi
   - type: Armor
     coverage:
     - Chest
@@ -114,7 +110,6 @@
     knockdownTimeDelta: -3
   - type: StaminaResistance
     damageCoefficient: 0.3
-  - type: StripMenuInvisible # No peeking!
   - type: TemperatureProtection
     heatingCoefficient: 0.8 # Blame it on bluespace.
     coolingCoefficient: 0.1
