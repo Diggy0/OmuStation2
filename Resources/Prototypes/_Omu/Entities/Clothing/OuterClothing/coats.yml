@@ -83,7 +83,7 @@
     sprite: _Omu/Clothing/OuterClothing/Coats/centcomwinterjacket.rsi
 
 - type: entity
-  parent: [ClothingOuterBaseMedium, AllowSuitStorageClothing, BaseCentcommContraband]
+  parent: ClothingOuterCoatCentralCommandWinter
   id: ClothingOuterCoatCentralCommandWinterADMEME
   name: CentComm winter trenchcoat
   suffix: ADMEME
