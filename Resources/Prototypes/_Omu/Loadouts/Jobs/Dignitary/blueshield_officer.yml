@@ -36,9 +36,9 @@
     outerClothing: ClothingBlueshieldArmoredVest
 
 - type: loadout
-  id: BSOKimono
+  id: BlueshieldOfficerOuterKimonoBlueshield
   equipment:
-    outerClothing: ClothingBlueshieldArmoredKimono
+    outerClothing: ClothingOuterBlueshieldArmourKimono
 
 # Neck
 - type: loadout
@@ -48,6 +48,5 @@
     proto: SeniorBlueshieldOfficer
   equipment:
     neck: ClothingNeckMantleTwoBlueshield
-
 
 
