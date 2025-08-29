@@ -1,4 +1,5 @@
 - type: entity
+  parent: ClothingOuterStorageFoldableBase
   id: ClothingOuterJacketCargoTech
   name: cargo gorka
   description: A brown and black puffy jacket; made from synthetic fabric. Inspired by old Eastern European designs.
