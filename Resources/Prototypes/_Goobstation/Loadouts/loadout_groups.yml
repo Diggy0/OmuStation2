@@ -1012,7 +1012,7 @@
   - BSOArmoredCoat # EE
   - BSOMarineVest # EE
   - BSOArmoredVest # EE
-  - BSOKimono # EE
+  - BlueshieldOfficerOuterKimonoBlueshield
 
 - type: loadoutGroup
   id: BlueshieldOfficerNeck
