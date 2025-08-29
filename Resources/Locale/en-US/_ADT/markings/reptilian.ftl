@@ -25,7 +25,6 @@ marking-TailAxolotl = Axolotl Tail
 marking-TailDatashark = Data Shark Tail
 marking-TailEasternDragon = Eastern Dragon Tail
 marking-TailFish = Fish Tail
-marking-TailMaw = Maw Tail
 marking-TailShark = Shark Tail
 marking-TailSnake = Snake Tail
 

@@ -279,15 +279,6 @@
       state: fish_secondary
 
 - type: marking
-  id: TailMaw
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [Reptilian]
-  sprites:
-    - sprite: _ADT/Mobs/Customization/Reptilian/reptilian_tails.rsi
-      state: maw
-
-- type: marking
   id: TailShark
   bodyPart: Tail
   markingCategory: Tail
