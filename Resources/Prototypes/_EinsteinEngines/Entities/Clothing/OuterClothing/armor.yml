@@ -59,16 +59,3 @@
     sprite: _EinsteinEngines/Clothing/OuterClothing/Armor/blueshield_vest.rsi
   - type: Item
     size: Normal
-
-- type: entity
-  parent: ClothingBlueshieldArmourVest
-  id: ClothingBlueshieldArmoredKimono
-  name: blueshield's armored kimono
-  description: As times evolve, so must the Blueshield.
-  components:
-  - type: Sprite
-    sprite: _EinsteinEngines/Clothing/OuterClothing/Armor/blueshield_kimono.rsi
-  - type: Clothing
-    sprite: _EinsteinEngines/Clothing/OuterClothing/Armor/blueshield_kimono.rsi
-  - type: Item
-    size: Normal
