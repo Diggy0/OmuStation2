@@ -50,6 +50,12 @@
     sprite: _Omu/Clothing/OuterClothing/Coats/paramedicjacket.rsi
   - type: Clothing
     sprite: _Omu/Clothing/OuterClothing/Coats/paramedicjacket.rsi
+  - type: Armor
+    coverage:
+    - Chest
+    - Groin
+    - Tail
+    - Arm
     modifiers:
       coefficients:
         Slash: 0.9
