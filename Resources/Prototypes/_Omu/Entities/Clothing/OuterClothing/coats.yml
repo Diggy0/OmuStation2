@@ -70,6 +70,7 @@
   parent: [ClothingOuterStorageFoldableBaseOpened, ClothingOuterJacketParamed]
   id: ClothingOuterJacketParamedOpened
   name: paramedic's jacket
+
 - type: entity
   parent: [ClothingOuterBaseMedium, AllowSuitStorageClothing, BaseCentcommContraband]
   id: ClothingOuterCoatCentralCommandWinter
