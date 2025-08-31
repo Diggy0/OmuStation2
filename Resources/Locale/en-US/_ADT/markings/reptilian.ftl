@@ -28,9 +28,6 @@ marking-TailFish = Fish Tail
 marking-TailShark = Shark Tail
 marking-TailSnake = Snake Tail
 
-marking-SnoutEasternDW = Nose 1
-marking-SnoutEasternDNW = Nose 2
-
 marking-EarsSylveon = Sylveon Ears
 marking-EarsResomi = Resomi Ears
 marking-EarsChemlight = ChemLight Ears

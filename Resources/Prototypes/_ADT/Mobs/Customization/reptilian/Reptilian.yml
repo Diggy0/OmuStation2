@@ -53,28 +53,6 @@
     state: lineeyes
 
 - type: marking
-  id: SnoutEasternDNW
-  bodyPart: Snout
-  markingCategory: Snout
-  speciesRestriction: [Reptilian]
-  sprites:
-    - sprite: _ADT/Mobs/Customization/Reptilian/reptilian_snouts.rsi
-      state: easterndnw_primary
-    - sprite: _ADT/Mobs/Customization/Reptilian/reptilian_snouts.rsi
-      state: easterndnw_secondary
-
-- type: marking
-  id: SnoutEasternDW
-  bodyPart: Snout
-  markingCategory: Snout
-  speciesRestriction: [Reptilian]
-  sprites:
-    - sprite: _ADT/Mobs/Customization/Reptilian/reptilian_snouts.rsi
-      state: easterndw_primary
-    - sprite: _ADT/Mobs/Customization/Reptilian/reptilian_snouts.rsi
-      state: easterndnw_secondary
-
-- type: marking
   id: EarsSylveon
   bodyPart: HeadTop
   markingCategory: HeadTop
