@@ -1,0 +1,22 @@
+- type: listing
+  id: UplinkBloodRedModsuit
+  name: uplink-modsuit-bloodred-name
+  description: uplink-modsuit-bloodred-desc
+  icon: { sprite: /Textures/_Omu/Clothing/Modsuit/bloodredmodsuit.rsi, state: icon }
+  productEntity: BloodredModsuitBackpack
+  cost:
+    Telecrystal: 25
+  categories:
+  - UplinkWearables
+
+- type: listing
+  id: UplinkSyndicateEliteModsuit
+  name: uplink-modsuit-elitemodsuit-name
+  description: uplink-modsuit-elitemodsuit-desc
+  icon: { sprite: /Textures/_Omu/Clothing/Modsuit/syndicateelitemodsuit.rsi, state: icon }
+  productEntity: EliteModsuitBackpack
+  cost:
+    Telecrystal: 55
+  categories:
+  - UplinkWearables
+
