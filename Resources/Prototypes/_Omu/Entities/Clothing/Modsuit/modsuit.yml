@@ -55,6 +55,10 @@
       damageProtection:
         flatReductions:
           Heat: 5
+    - type: Insulated
+    - type: Fiber
+      fiberMaterial: fibers-modular
+      fiberColor: fibers-red
     - type: Tag
       tags:
       - PlasmamanSafe
@@ -284,6 +288,10 @@
           Piercing: 0.9
           Shock: 0.75
           Heat: 0.70
+    - type: Insulated
+    - type: Fiber
+      fiberMaterial: fibers-modular
+      fiberColor: fibers-black
     - type: DamageOnInteractProtection
       damageProtection:
         flatReductions:
@@ -300,7 +308,7 @@
   parent: [ClothingModsuitHelmetStandard, ShowSecurityIcons, BaseSyndicateContraband]
   id: ClothingModsuitHelmetEliteSyndicateModsuit
   name: CSI-EM-02 "Phobos" Modsuit Helm
-  description: A helmet made for the "Phobos" modsuit, equipped with a integrated hud to see the vitals of your allies or foes, and thermal vision to avoid a ambush.
+  description: A helmet made for the "Phobos" modsuit, equipped with a integrated hud to see the vitals of your allies or foes, along with a voice replacer to sound cooler.
   categories: [HideSpawnMenu]
   components:
     - type: Sprite
@@ -357,10 +365,6 @@
       color: "#ffd480"
     - type: SpeechSoundsReplacer
       speechSounds: Chrono
-    - type: ThermalVision
-      isEquipment: true
-      color: "#ffd480"
-      lightRadius: 10
     - type: ComponentToggler
       components:
       - type: BreathMask
