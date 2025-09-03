@@ -169,7 +169,7 @@
       delayDelta: 2
       knockdownTimeDelta: -2
     - type: StaminaResistance 
-      coefficient: 0.7
+      damageCoefficient: 0.9
     - type: SealableClothingVisuals
       clothingVisuals:
         outerClothing:
@@ -408,7 +408,7 @@
       delayDelta: 3
       knockdownTimeDelta: -3
     - type: StaminaResistance 
-      coefficient: 0.6
+      damageCoefficient: 0.8
 
 - type: entity
   parent: [ClothingModsuitBootsStandard, BaseSyndicateContraband]
