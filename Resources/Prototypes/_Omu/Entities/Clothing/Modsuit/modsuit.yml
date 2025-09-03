@@ -55,6 +55,13 @@
       damageProtection:
         flatReductions:
           Heat: 5
+    - type: Tag
+      tags:
+      - PlasmamanSafe
+    - type: IgniteFromGasImmunity
+      parts:
+        - LeftHand
+        - RightHand
 
 - type: entity
   parent: [ClothingModsuitHelmetStandard, ShowSecurityIcons, BaseSyndicateContraband]
@@ -105,6 +112,13 @@
     - type: ShowHealthBars
       damageContainers:
         - Biological
+    - type: Tag
+      tags:
+      - WhitelistChameleon
+      - PlasmamanSafe
+    - type: IgniteFromGasImmunity
+      parts:
+      - Head
     - type: PointLight
       color: "#21A52E"
     - type: ComponentToggler
@@ -274,6 +288,13 @@
       damageProtection:
         flatReductions:
           Heat: 10
+    - type: Tag
+      tags:
+      - PlasmamanSafe
+    - type: IgniteFromGasImmunity
+      parts:
+        - LeftHand
+        - RightHand
 
 - type: entity
   parent: [ClothingModsuitHelmetStandard, ShowSecurityIcons, BaseSyndicateContraband]
@@ -325,6 +346,13 @@
     - type: ShowHealthBars
       damageContainers:
         - Biological
+    - type: Tag
+      tags:
+      - WhitelistChameleon
+      - PlasmamanSafe
+    - type: IgniteFromGasImmunity
+      parts:
+      - Head
     - type: PointLight
       color: "#ffd480"
     - type: SpeechSoundsReplacer
