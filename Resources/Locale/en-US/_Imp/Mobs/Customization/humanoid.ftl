@@ -279,8 +279,6 @@ marking-HumanHairMidPartLong = Middle Part (Long)
 
 marking-HumanHairMidPartLonger = Middle Part (Longer)
 
-marking-HumanHairMullet = Mullet
-
 marking-HumanHairMulletSideshave = Mullet (Sideshave)
 
 marking-HumanHairSpikyPonytailLong = Ponytail (Spiky Long)
