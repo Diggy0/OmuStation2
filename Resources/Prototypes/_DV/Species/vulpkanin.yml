@@ -65,28 +65,28 @@
       required: true
       defaultMarkings: [ VulpTail ]
     RightLeg:
-      points: 2
+      points: 8
       required: false
     RightFoot:
-      points: 2
+      points: 8
       required: false
     LeftLeg:
-      points: 2
+      points: 8
       required: false
     LeftFoot:
-      points: 2
+      points: 8
       required: false
     RightArm:
-      points: 2
+      points: 8
       required: false
     RightHand:
-      points: 3
+      points: 8
       required: false
     LeftArm:
-      points: 2
+      points: 8
       required: false
     LeftHand:
-      points: 3
+      points: 8
       required: false
     Snout:
       points: 1
@@ -99,7 +99,7 @@
       points: 2
       required: false
     Overlay:
-      points: 2
+      points: 8
       required: false
 
 - type: humanoidBaseSprite
