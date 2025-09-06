@@ -37,7 +37,7 @@
   id: GauzeLefteyePad
   bodyPart: Eyes
   markingCategory: Overlay
-  speciesRestriction: [Dwarf, Human, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin, Harpy] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin, Harpy
+  speciesRestriction: [Dwarf, Human, Reptilian, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin, Harpy] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin, Harpy
   coloring:
     default:
       type:
@@ -65,7 +65,7 @@
   id: GauzeRighteyePad
   bodyPart: Eyes
   markingCategory: Overlay
-  speciesRestriction: [Dwarf, Human, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin, Harpy] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin, Harpy
+  speciesRestriction: [Dwarf, Human, Reptilian, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin, Harpy] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin, Harpy
   coloring:
     default:
       type:
@@ -79,7 +79,7 @@
   id: GauzeBlindfold
   bodyPart: Eyes
   markingCategory: Overlay
-  speciesRestriction: [Dwarf, Human, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin, Harpy] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin, Harpy
+  speciesRestriction: [Dwarf, Human, Arachnid, Felinid, Harpy, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin
   coloring:
     default:
       type:
@@ -93,7 +93,7 @@
   id: GauzeShoulder
   bodyPart: Chest
   markingCategory: Overlay
-  speciesRestriction: [Dwarf, Human, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin
+  speciesRestriction: [Dwarf, Human, Reptilian, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin
   coloring:
     default:
       type:
