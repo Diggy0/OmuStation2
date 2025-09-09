@@ -64,28 +64,28 @@
       points: 1
       required: false
     RightLeg:
-      points: 8
+      points: 8 # Omu Edit - "Uncapped Customizations"
       required: false
     RightFoot:
-      points: 8
+      points: 8 # Omu Edit - "Uncapped Customizations"
       required: false
     LeftLeg:
-      points: 8
+      points: 8 # Omu Edit - "Uncapped Customizations"
       required: false
     LeftFoot:
-      points: 8
+      points: 8 # Omu Edit - "Uncapped Customizations"
       required: false
     RightArm:
-      points: 8
+      points: 8 # Omu Edit - "Uncapped Customizations"
       required: false
     RightHand:
-      points: 8
+      points: 8 # Omu Edit - "Uncapped Customizations"
       required: false
     LeftArm:
-      points: 8
+      points: 8 # Omu Edit - "Uncapped Customizations"
       required: false
     LeftHand:
-      points: 8
+      points: 8 # Omu Edit - "Uncapped Customizations"
       required: false
 
 - type: speciesBaseSprites
