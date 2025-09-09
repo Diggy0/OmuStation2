@@ -78,7 +78,7 @@
   id: GauzeBlindfold
   bodyPart: Eyes
   markingCategory: Overlay
-  speciesRestriction: [Dwarf, Human, Arachnid, Felinid, Harpy, Vulpkanin, Rodentia, Tajaran, Feroxi, Oni, IPC, Shadowkin] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin
+  speciesRestriction: [Dwarf, Human, Arachnid, Felinid, Harpy, Vulpkanin, Rodentia, Tajaran, Feroxi, Oni, IPC, Shadowkin] # Delta V - Felinid, Harpy, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin
   coloring:
     default:
       type:
@@ -106,7 +106,7 @@
   id: GauzeStomach
   bodyPart: Chest
   markingCategory: Overlay
-  speciesRestriction: [Dwarf, Human, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Feroxi, Oni, IPC, Shadowkin] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin
+  speciesRestriction: [Dwarf, Human, Reptilian, Arachnid, Felinid, Vulpkanin, Rodentia, Tajaran, Feroxi, Oni, IPC, Shadowkin] # Delta V - Felinid, Vulpkanin, Rodentia; Goob - Tajaran # Omu - Oni, IPC (It's a overlay), Shadowkin
   coloring:
     default:
       type:
@@ -246,7 +246,7 @@
   id: GauzeHead
   bodyPart: Head
   markingCategory: Overlay
-  speciesRestriction: [Dwarf, Human, Reptilian, Arachnid, SlimePerson, Arachnid, Moth, Chitinid, Feroxi, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin] # Delta V - Chitinid # Omu - Felinid, Vulp, Rodentia, Oni, IPC, Tajaran, Shadowkin
+  speciesRestriction: [Dwarf, Human, Reptilian, Arachnid, SlimePerson, Arachnid, Moth, Chitinid, Feroxi, Felinid, Vulpkanin, Rodentia, Tajaran, Oni, IPC, Shadowkin] # Delta V - Chitinid, Feroxi # Omu - Felinid, Vulp, Rodentia, Oni, IPC, Tajaran, Shadowkin
   coloring:
     default:
       type:
