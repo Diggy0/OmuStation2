@@ -164,9 +164,6 @@
         VeinsDamage: 0
         NerveDamage: 0
       modifiers:
-        flatReductions:
-          Piercing: 2
-          Heat: 2
         coefficients:
           Blunt: 0.80
           Slash: 0.80
@@ -408,9 +405,6 @@
         VeinsDamage: 0
         NerveDamage: 0
       modifiers:
-        flatReductions:
-          Piercing: 2
-          Heat: 2
         coefficients:
           Blunt: 0.70
           Slash: 0.70
