@@ -1523,6 +1523,8 @@
   - MedicalGreenScrubs
   - MedicalPurpleScrubs
   - MedicMJ # goob
+  - CybersunMedicalJumpsuit # Omu
+  - CybersunMedicalJumpskirt # Omu
 
 - type: loadoutGroup
   id: MedicalDoctorOuterClothing
@@ -1564,6 +1566,7 @@
   loadouts:
   - LatexGloves
   - NitrileGloves
+  - CybersunNitrileGloves # Omu
 
 - type: loadoutGroup
   id: MedicalMask
@@ -1616,6 +1619,7 @@
   minLimit: 0
   loadouts:
   - ParamedicHead
+  - ParamedicCapCybersun # Omu
   - SeniorPhysicianBeret # Goobstation
 
 - type: loadoutGroup
@@ -1629,6 +1633,9 @@
   - SeniorPhysicianJumpsuit # Goobstation
   - SeniorPhysicianJumpskirt # Goobstation
   - ParamedMJ # goob
+  - CybersunMedicalJumpsuit # Omu
+  - CybersunMedicalJumpskirt # Omu
+  - ParamedUniformCybersun # Omu
 
 - type: loadoutGroup
   id: ParamedicOuterClothing
