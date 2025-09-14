@@ -35,6 +35,8 @@
     damageCoefficient: 0.5
   - type: FireProtection
     reduction: 0.6
+  - type: ZombificationResistance
+    zombificationResistanceCoefficient: 0.1
   - type: Armor
     traumaDeductions:
       Dismemberment: 0.5
