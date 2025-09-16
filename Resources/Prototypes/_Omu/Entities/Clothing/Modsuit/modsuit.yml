@@ -442,6 +442,9 @@
       knockdownTimeDelta: -3
     - type: StaminaResistance 
       damageCoefficient: 0.8
+    - type: ClothingSpeedModifier
+      walkModifier: 1
+      sprintModifier: 1
 
 - type: entity
   parent: [ClothingModsuitBootsStandard, BaseSyndicateContraband]
@@ -459,9 +462,6 @@
     - type: SealableClothing
       sealUpPopup: sealable-clothing-seal-up-boots
       sealDownPopup: sealable-clothing-seal-down-boots
-    - type: ClothingSpeedModifier
-      walkModifier: 1
-      sprintModifier: 1
     - type: SealableClothingVisuals
       visualLayers:
         shoes:
