@@ -309,7 +309,7 @@
         - RightHand
 
 - type: entity
-  parent: [ClothingModsuitHelmetStandard, ShowSecurityIcons, BaseSyndicateContraband]
+  parent: [ClothingModsuitHelmetStandard, ShowSecurityIcons, BaseSyndicateContraband, ShowHealthRelatedIcons]
   id: ClothingModsuitHelmetEliteSyndicateModsuit
   name: CSI-EM-02 "Phobos" Modsuit Helm
   description: A helmet made for the "Phobos" modsuit, equipped with a integrated hud to see the vitals of your allies or foes, along with a voice replacer to sound cooler.
@@ -355,9 +355,6 @@
     - type: ToggleableVisuals
       spriteLayer: light
     - type: ItemTogglePointLight
-    - type: ShowHealthBars
-      damageContainers:
-        - Biological
     - type: Tag
       tags:
       - WhitelistChameleon
