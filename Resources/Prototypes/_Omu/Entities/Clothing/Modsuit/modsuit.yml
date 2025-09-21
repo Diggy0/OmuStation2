@@ -355,9 +355,6 @@
     - type: ToggleableVisuals
       spriteLayer: light
     - type: ItemTogglePointLight
-    - type: ShowHealthBars
-      damageContainers:
-        - Biological
     - type: Tag
       tags:
       - WhitelistChameleon
